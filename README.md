@@ -8,7 +8,7 @@
 
 - <p>👨‍💻 Skills: HTML5, CSS3, JavaScript, ReactJs, ReactNative, NodeJs, Styled Components, Git/Github.</p>
 
-<h4>📱 Social </h4>
+<h4>📱 Social </h4> 
 
 <div>
   
