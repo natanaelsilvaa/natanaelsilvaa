@@ -1,8 +1,8 @@
-<div>
 <h3 align="left">Olá, eu sou o Nathan sejam bem vindos<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30"></h3>
 
 <h4>💻 Front-End Developer<h4/>
   
+<div>
 - <p>✈ 20y, Expandindo conhecimentos em Front-End e Frameworks.</p>
 
 - <p>📚 Estudando: TypeScript, MongoDb, Firebase, Tailwind CSS.</p>
