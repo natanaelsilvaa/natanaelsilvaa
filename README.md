@@ -10,9 +10,9 @@
 
  <p>👨‍💻 Skills: HTML5, CSS3, JavaScript, ReactJs, ReactNative, NodeJs, Styled Components, Git/Github.</p>
 
-<h4>📱 Social </h4> 
 
 <div>
+<h4>📱 Social </h4> 
   
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com//in/natanael-silva-774670218)](https://www.linkedin.com/in/natanael-silva-774670218)
   
