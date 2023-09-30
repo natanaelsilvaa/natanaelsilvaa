@@ -2,13 +2,11 @@
 
 <h4>💻 Front-End Developer<h4/>
   
-<div>
 - <p>✈ 20y, Expandindo conhecimentos em Front-End e Frameworks.</p>
 
 - <p>📚 Estudando: TypeScript, MongoDb, Firebase, Tailwind CSS.</p>
 
 - <p>👨‍💻 Skills: HTML5, CSS3, JavaScript, ReactJs, ReactNative, NodeJs, Styled Components, Git/Github.</p>
-</div>
 
 <h4>📱 Social </h4> 
 
