@@ -4,7 +4,7 @@
 
 <h4>💻 Front-End Developer<h4/>
   
- <p>✈ 20y, Expandindo conhecimentos em Front-End e Frameworks.</p>
+ <p>✈ 20y, Expandindo conhecimentos em JavaScript e Frameworks.</p>
 
  <p>📚 Estudando: TypeScript, MongoDb, Firebase, Tailwind CSS.</p>
 
